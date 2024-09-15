@@ -2,7 +2,7 @@ setwd("C:/Users/lberg/Desktop/DR_project")
 #wd <- getwd()
 #setwd(wd)
 
-fire <- read.csv("______", sep= ",", dec = ".")
+fire <- read.csv("Andromeda_d.csv", sep= ",", dec = ".")
 
 head(fire)
 str(fire)
